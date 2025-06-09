@@ -33,7 +33,7 @@ A steampunk-themed puzzle game built with Python and Pygame. Control a time-trav
 Contributions are welcome! Fork the repository and submit a pull request with your changes. For major updates, please open an issue to discuss your ideas first.
 
 ## Support
-Enjoy Chrono Crafter? Support its development on [GitHub Sponsors](https://github.com/sponsors/your-username) to help create more innovative games!
+Enjoy Chrono Crafter? Support its development on [GitHub Sponsors](https://github.com/sponsors/vinesscuakenn) to help create more innovative games!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
